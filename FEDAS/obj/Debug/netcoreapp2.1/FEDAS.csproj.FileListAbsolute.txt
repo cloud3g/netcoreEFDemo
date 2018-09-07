@@ -1,0 +1,17 @@
+D:\net\netcore\FEDAS\FEDAS\bin\Debug\netcoreapp2.1\FEDAS.deps.json
+D:\net\netcore\FEDAS\FEDAS\bin\Debug\netcoreapp2.1\FEDAS.runtimeconfig.json
+D:\net\netcore\FEDAS\FEDAS\bin\Debug\netcoreapp2.1\FEDAS.runtimeconfig.dev.json
+D:\net\netcore\FEDAS\FEDAS\bin\Debug\netcoreapp2.1\FEDAS.dll
+D:\net\netcore\FEDAS\FEDAS\bin\Debug\netcoreapp2.1\FEDAS.pdb
+D:\net\netcore\FEDAS\FEDAS\obj\Debug\netcoreapp2.1\FEDAS.csprojAssemblyReference.cache
+D:\net\netcore\FEDAS\FEDAS\obj\Debug\netcoreapp2.1\FEDAS.csproj.CoreCompileInputs.cache
+D:\net\netcore\FEDAS\FEDAS\obj\Debug\netcoreapp2.1\FEDAS.RazorAssemblyInfo.cache
+D:\net\netcore\FEDAS\FEDAS\obj\Debug\netcoreapp2.1\FEDAS.RazorAssemblyInfo.cs
+D:\net\netcore\FEDAS\FEDAS\obj\Debug\netcoreapp2.1\FEDAS.AssemblyInfoInputs.cache
+D:\net\netcore\FEDAS\FEDAS\obj\Debug\netcoreapp2.1\FEDAS.AssemblyInfo.cs
+D:\net\netcore\FEDAS\FEDAS\obj\Debug\netcoreapp2.1\FEDAS.RazorTargetAssemblyInfo.cache
+D:\net\netcore\FEDAS\FEDAS\obj\Debug\netcoreapp2.1\FEDAS.dll
+D:\net\netcore\FEDAS\FEDAS\obj\Debug\netcoreapp2.1\FEDAS.pdb
+D:\net\netcore\FEDAS\FEDAS\bin\Debug\netcoreapp2.1\Model.dll
+D:\net\netcore\FEDAS\FEDAS\bin\Debug\netcoreapp2.1\Model.pdb
+D:\net\netcore\FEDAS\FEDAS\obj\Debug\netcoreapp2.1\FEDAS.csproj.CopyComplete
